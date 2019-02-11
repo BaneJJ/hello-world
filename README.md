@@ -1,2 +1,3 @@
 # hello-world
-1st time use
+
+Hi,i'm BaneJJ,total beginner in here
